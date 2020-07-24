@@ -2,15 +2,15 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.tituslearning.niuqlearn"
-        versionCode = "3925"
-        android-versionCode = "3924"
-        ios-CFBundleVersion = "3.9.5"
-        version   = "3.9.5">
-    <name>NIU QLEARN</name>
+        id        = "com.tituslearning.ilaconnect"
+        versionCode = "3920"
+        android-versionCode = "3920"
+        ios-CFBundleVersion = "3.9.0"
+        version   = "3.9.0">
+    <name>ILA Connect</name>
 
     <description>
-       NIU QLEARN
+       ILA Connect
     </description>
 
     <author href="http://moodle.com" email="mobile@tituslearning.com">
@@ -18,7 +18,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.9.5</string>
+        <string>3.9.0</string>
     </edit-config>
 
     <gap:platform name="ios" />
