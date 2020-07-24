@@ -165,11 +165,11 @@ p.item-heading.core-siteurl.ng-star-inserted {
 	display: none;
 }
 ion-item-divider.item.item-divider.item-md.item-divider-md {
-	background: #236699!important;
+	background: #0655a3!important;
 	color: #fff;
 }
 ion-item-divider.item.item-divider.item.item-divider {
-	background: #236699!important;
+	background: #0655a3!important;
 	color: #fff;
 }
 .item-md.item-input.ng-invalid.ng-touched:not(.input-has-focus):not(.item-input-has-focus) .item-inner {
@@ -717,4 +717,9 @@ button.item-button.button.button-md.button-default.button-default-md.button-bloc
 
 button.item-button.button.button.button-default.button-default.button-block.button-block {
    background-color: #0655a3;
+}
+
+
+h3.core-login-onboarding-step {
+    display: none;
 }
